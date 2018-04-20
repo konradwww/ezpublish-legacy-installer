@@ -22,7 +22,7 @@
     },
     "require": {
         "composer-plugin-api": "^1.0"
-    }
+    },
      "replace": {
         "ezsystems/ezpublish-legacy-installer": "*"
     }
